@@ -50,3 +50,7 @@ Thumbs.db
 
 # course given readme
 /README.md
+/P2PDownloader.dSYM
+
+# compiled executable
+P2PDownloader
