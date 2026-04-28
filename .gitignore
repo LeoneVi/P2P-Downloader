@@ -54,3 +54,6 @@ Thumbs.db
 
 # compiled executable
 P2PDownloader
+
+#zip file
+*.zip
